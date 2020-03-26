@@ -1,0 +1,2 @@
+JWT_SECRET=myjq130ksecret
+LOG_LEVEL=DEBUG
